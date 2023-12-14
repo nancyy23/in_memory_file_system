@@ -1,4 +1,6 @@
 # in_memory_file_system
+Note: You can acess the documentation for more details.
+Overview:
 The application is built in Node.js and it supports various functionalities like: mkdir, cd, ls, grep, cat, touch, echo, mv, cp, rm. 
 
 Getting Started:
